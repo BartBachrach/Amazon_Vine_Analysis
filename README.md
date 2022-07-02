@@ -12,6 +12,9 @@ The vine reviews analysis showed there was virtually no difference in the rate o
 ![this is an image](https://github.com/BartBachrach/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202022-07-02%20at%2011.54.33%20AM.png)
 
 * Out of 107 paid reviews, 56 were five-star reviews, a rate of 52.3%
+
+![this is an image](https://github.com/BartBachrach/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202022-07-02%20at%2011.55.05%20AM.png)
+
 * Out of 39,869 unpaid reviews, 21,005 were five-star reviews, a rate of 52.7%
 
 # Summary
