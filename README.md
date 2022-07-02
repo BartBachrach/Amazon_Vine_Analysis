@@ -11,7 +11,7 @@ Out of that group, 107 were paid, and 39,869 were unpaid reviews
 Out of 107 paid reviews, 56 were five-star reviews, a rate of 52.3%
 Out of 39,869 unpaid reviews, 21,005 were five-star reviews, a rate of 52.7%
 
-#Summary
+# Summary
 According to our data and research, there does not appear to be any bias in the Vine Review Program, with nearly identical rates of five-star reviews. In fact, the unpaid non-vine reviewers gave slightly MORE five-star reviews than the Vine reviewers. One explanation could be that the paid reviewers possibly believe they should be more critical and analytical because they’re being paid to review the product, whereas regular shoppers will tend to want to be happier about their purchase. 
 
 We could likely recreate these results by expanding the research to include reviews at the other four star-levels and comparing the number of four, three, two, and one star reviews between each group. 
