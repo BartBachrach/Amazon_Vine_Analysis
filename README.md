@@ -8,6 +8,9 @@ We received the original dataset and performed ETL to narrow down what we were l
 The vine reviews analysis showed there was virtually no difference in the rate of five-star reviews among the paid and unpaid reviews, with almost identical rates of five-star product reviews among each group.
 * There were 39,976 product reviews that were more than 50% helpful, which includes both paid and unpaid reviews.
 * Out of that group, 107 were paid, and 39,869 were unpaid reviews
+
+![this is an image](https://github.com/BartBachrach/Amazon_Vine_Analysis/blob/main/Screen%20Shot%202022-07-02%20at%2011.54.33%20AM.png)
+
 * Out of 107 paid reviews, 56 were five-star reviews, a rate of 52.3%
 * Out of 39,869 unpaid reviews, 21,005 were five-star reviews, a rate of 52.7%
 
